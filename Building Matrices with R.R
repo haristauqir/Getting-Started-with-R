@@ -18,3 +18,7 @@ rownames(companies_matrix) <- my_row_names
 # Print out companies_matrix
 companies_matrix
 
+### OUTPUT:
+#                    Starting Date Regions               
+#Cloud Stem Ltd      "March 2016"  "Global"              
+# MyAdminSoft Limited "August 2016" "Middle East - Kuwait"
